@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "title": "React",
+      "datetime": "December 07, 2023 11:16:49 AM",
+      "body": "Learn About the AXIOS API"
+    },
+    {
+      "id": 5,
+      "title": "CUSTOM HOOKS",
+      "datetime": "December 07, 2023 11:23:41 AM",
+      "body": "Learn About Custom Hooks"
+    },
+    {
+      "id": 6,
+      "title": "Context Hook & Context API",
+      "datetime": "December 09, 2023 2:57:05 AM",
+      "body": "Practice about it"
+    },
+    {
+      "id": 7,
+      "title": "HI",
+      "datetime": "December 09, 2023 2:59:03 AM",
+      "body": "Hello World!"
+    }
+  ]
+}
